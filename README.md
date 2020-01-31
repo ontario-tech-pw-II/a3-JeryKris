@@ -1,5 +1,6 @@
 ## Reverse File program
-
+Student: Nicholas Bode
+Banner ID: 100661867
 Learning outcomes highlights: 
 - dynamic memory allocation
 - file operations
